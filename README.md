@@ -11,6 +11,21 @@ The platform consists of two parts:
 2. An client side app (Android or PC) that accept all the streams and performs real-time sensing operation. 
 
 A snapshot of the board:
+ <div align=center><img src="images/board.jpg" width="100%" height="100%"/></div>
+
+This hardware has plenty of resources:
+1. Five key switches
+2. LED
+3. SD card
+4. Power supply
+5. Battery charge circuit
+6. OLED interface
+7. IMU interface
+8. Up to 4 free IOs
+9. Stereo audio inputs
+10.Stereo audio outputs 
+
+More function on this are developed in the progress
 
 Android app snapshots:
  <div align=center><img src="images/demo.gif" width="100%" height="100%"/></div>
