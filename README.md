@@ -13,5 +13,5 @@ The platform consists of two parts:
 A snapshot of the board:
 
 Android app snapshots:
- <div align=center><img src="images/demo.gif" width="50%" height="50%"/></div>
+ <div align=center><img src="images/demo.gif" width="100%" height="100%"/></div>
 
