@@ -30,3 +30,18 @@ More function on this are developed in the progress
 Android app snapshots:
  <div align=center><img src="images/demo.gif" width="100%" height="100%"/></div>
 
+Heartsound results:
+ <div align=center><img src="images/heartsoundresult.jpg" width="100%" height="100%"/></div>
+
+Settings for the app:
+ <div align=center><img src="images/menu.jpg" width="100%" height="100%"/></div>
+
+ <div align=center><img src="images/filesetting.jpg" width="100%" height="100%"/></div>
+
+ <div align=center><img src="images/connectionmode.jpg" width="100%" height="100%"/></div>
+ 
+ <div align=center><img src="images/channel.jpg" width="100%" height="100%"/></div>
+
+ <div align=center><img src="images/bitresolution.jpg" width="100%" height="100%"/></div>
+
+ <div align=center><img src="images/overalsetttings.jpg" width="100%" height="100%"/></div>
