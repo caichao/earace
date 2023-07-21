@@ -13,6 +13,11 @@ The platform consists of two parts:
 A snapshot of the board:
  <div align=center><img src="images/board.jpg" width="100%" height="100%"/></div>
 
+ <div align=center><img src="images/board_ykl.jpg" width="100%" height="100%"/></div>
+
+hardware demo show:
+ <div align=center><img src="images/hardware_hd.gif" width="60%" height="60%"/></div>
+
 This hardware has plenty of resources:
 1. Five key switches
 2. LED
@@ -23,7 +28,8 @@ This hardware has plenty of resources:
 7. IMU interface
 8. Up to 4 free IOs
 9. Stereo audio inputs
-10.Stereo audio outputs 
+10. Stereo audio outputs 
+
 
 More function on this are developed in the progress
 
@@ -32,6 +38,11 @@ Android app snapshots:
 
 Heartsound results:
  <div align=center><img src="images/heartsoundresult.jpg" width="60%" height="60%"/></div>
+
+We have run extensive results under different environments. It can even work reliably under scenarios with intensive noises (over 80dB), say the waiting room of a railway station. 
+
+ <div align=center><img src="images/heartsound.jpg" width="60%" height="60%"/></div>
+
 
 Settings for the app:
  <div align=center><img src="images/menu.jpg" width="60%" height="60%"/></div>
