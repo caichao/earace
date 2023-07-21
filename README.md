@@ -58,27 +58,31 @@ Settings for the app:
  <div align=center><img src="images/overalsetttings.jpg" width="60%" height="60%"/></div>
 
 Related publication:
-···
-@article{cao2023heartprint,
-  title={HeartPrint: Passive Heart Sounds Authentication Exploiting In-Ear Microphones},
-  author={Cao, Yetong and Cai, Chao and Li, Fan and Chen, Zhe and Luo, Jun},
-  journal={Heart},
-  volume={50},
-  number={S1},
-  pages={S2},
-  year={2023}
-}
 
-@article{cao2023earace,
-  title={EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform},
-  author={Cao, Yetong and Cai, Chao and Yu, Anbo and Li, Fan and Luo, Jun},
-  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
-  volume={7},
-  number={2},
-  pages={1--23},
-  year={2023},
-  publisher={ACM New York, NY, USA}
-}
-···
+
+    @article{cao2023heartprint,
+      title={HeartPrint: Passive Heart Sounds Authentication Exploiting In-Ear Microphones},
+      author={Cao, Yetong and Cai, Chao and Li, Fan and Chen, Zhe and Luo, Jun},
+      journal={Heart},
+      volume={50},
+      number={S1},
+      pages={S2},
+      year={2023}
+    }
+    
+    @article{cao2023earace,
+      title={EarAce: Empowering Versatile Acoustic Sensing via Earable Active Noise Cancellation Platform},
+      author={Cao, Yetong and Cai, Chao and Yu, Anbo and Li, Fan and Luo, Jun},
+      journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+      volume={7},
+      number={2},
+      pages={1--23},
+      year={2023},
+      publisher={ACM New York, NY, USA}
+    }
+
+
+
+
 
 
