@@ -41,7 +41,7 @@ Heartsound results:
 
 We have run extensive results under different environments. It can even work reliably under scenarios with intensive noises (over 80dB), say the waiting room of a railway station. 
 
- <div align=center><img src="images/heartsound.gif" width="60%" height="60%"/></div>
+ <div align=center><img src="images/heartsound.gif" width="100%" height="100%"/></div>
 
 
 Settings for the app:
