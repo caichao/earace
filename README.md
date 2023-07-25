@@ -30,8 +30,25 @@ This hardware has plenty of resources:
 9. Stereo audio inputs
 10. Stereo audio outputs 
 
+You can configure the hardware in three streaming or sampling modes:
+1. WiFi hotspot
+2. Bluetooth (develop in the progress)
+3. SD card 
 
-More function on this are developed in the progress
+In the first page, you can select which mode you prefer:
+ <div align=center><img src="images/mode_select.jpg" width="100%" height="100%"/></div>
+ 
+ In the WiFi mode, you can see the SSID and passwd, you can use you smartphone (with our app) or a laptop to accept UDP or TCP streams. The app can visulize the sampled results in real-time and it can also store the samples in local storage. 
+ <div align=center><img src="images/wifi_mode.jpg" width="100%" height="100%"/></div>
+
+The BLE mode is developed in the progress. 
+
+In SD card mode, you need no smartphone or laptop as a delegate to process samples. All the sampling results are stored in the SD card. If no SD card is found or SD card is corupted, the OLED screen would show the results; otherwise, the OLED would notify check ok. 
+
+ <div align=center><img src="images/sd_ok.jpg" width="100%" height="100%"/></div>
+
+When in the SD card mode, if you active recording, an LED would flash, notify that it is in the middle of recording. And the OLED would tell you the name of the recorded file. If the LED stops flashing, the recording is over. 
+ <div align=center><img src="images/sd_mode.jpg" width="100%" height="100%"/></div>
 
 Android app snapshots:
  <div align=center><img src="images/demo.gif" width="100%" height="100%"/></div>
