@@ -99,12 +99,12 @@ Related publication:
     }
 
     @article{cao2024enabling,
-   title={Enabling Passive User Authentication via Heart Sounds on In-Ear Microphones},
-   author={Cao, Yetong and Cai, Chao and Li, Fan and Chen, Zhe and Luo, Jun},
-   journal={IEEE Transactions on Dependable and Secure Computing},
-   year={2024},
-   publisher={IEEE}
- }
+     title={Enabling Passive User Authentication via Heart Sounds on In-Ear Microphones},
+    author={Cao, Yetong and Cai, Chao and Li, Fan and Chen, Zhe and Luo, Jun},
+    journal={IEEE Transactions on Dependable and Secure Computing},
+    year={2024},
+    publisher={IEEE}
+    }
 
 
 
